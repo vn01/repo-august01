@@ -1,1 +1,2 @@
-
+My first file from github
+starting learning git
